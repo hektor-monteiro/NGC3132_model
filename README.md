@@ -15,7 +15,7 @@ This repository contains the relevant files used to create and analyze a photoio
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ngc3132_photoionization.git
+   git clone https://github.com/hektor-monteiro/NGC3132_model.git
    ```
 
 ## Abstract
