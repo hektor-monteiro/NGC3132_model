@@ -1,0 +1,36 @@
+autoPackets 0.20 1.5 2e18
+TeStart 10000.
+TStellar 140000.
+contShape  "input/CS-shell-140kK_Rauch_nH(-22.92)-He6.6e-3.dat"
+multiChemistry 2 "input/abun-ngc3132.in" "input/abun-ngc3132.in"
+densityFile "input/ngc3132_BTFI_N2Ha_strut_101.dat"
+fillingFactor 1
+Ndust file "input/ngc3132_BTFI_N2Ha_dust_strut_101.dat"
+dustFile "input/dust_grainspecies_bestfit.dat" "input/dust_grainsizes.dat" 
+maxIterateMC  20 90.
+nPhotons 100000000 
+nx 101
+ny 101
+nz 101
+nbins 700
+LStar 0.81
+nuMax 15.
+nuMin 4.0e-4
+Rin 0.0e15
+convLimit 0.05
+inclination 2 0 -1 1.57 -1
+continuumCube 40. 140.
+recombinationLines
+resLinesTransfer 80.
+
+
+
+
+
+
+
+
+
+
+
+
